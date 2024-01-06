@@ -13,7 +13,7 @@ If you're interested in my resume for work, or collaborating on a project and/or
 > Note: This Github is otherwise pretty sparse since I maintain my projects on a self-hosted [Gogs](https://github.com/gogs/gogs) instance on my home server.
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFydG0yZzE0OHhoajVsbjBpbG5mcXpiem5uY2pzeDBwZTIyNGM0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XewOYJL5Ym564knnM0/giphy.gif">
+![](./assets/earthgif.gif)
 
 </div>
 
