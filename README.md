@@ -2,7 +2,7 @@
 
 I'm a calm, curious and somewhat eccentric personality with a passion for programming and a keen sense and eye for UX and design.
 
-In my free time you can find me working on my [vanlife build](https://instagram.com/wheeldweel) (soon to be my permanent residence ✨) or various programming projects, researching new frameworks and tools and the latest trends in app/web design. I'm also interested in sustainability and climate change, having one hobby project dedicated to hopefully tackle that. Other hobbies include music ([my main playlist](https://open.spotify.com/playlist/3UwTfkqZMLQ2Z4jJbpHwu2?si=e2b35ca587694a38)), concerts, sci-fi, gaming and reading ([goodreads](https://goodreads.com/capperstrnd)).
+In my free time you can find me working on my [vanlife build](https://instagram.com/wheeldwell) (soon to be my permanent residence ✨) or various programming projects, researching new frameworks and tools and the latest trends in app/web design. I'm also interested in sustainability and climate change, having one hobby project dedicated to hopefully tackle that. Other hobbies include music ([my playlist](https://open.spotify.com/playlist/3UwTfkqZMLQ2Z4jJbpHwu2?si=e2b35ca587694a38)), concerts, sci-fi, gaming and reading ([goodreads](https://goodreads.com/capperstrnd)).
 
 - 🤔 I’m looking for work, have over 4 years of professional experience in backend/frontend (primarily C#/React/Typescript)!
 - 👯 I’m looking to collaborate on saving the climate
