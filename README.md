@@ -8,7 +8,7 @@ In my free time you can find me working on my [vanlife build](https://instagram.
 - 👯 I’m looking to collaborate on saving the climate
 - 🌱 I’m currently learning Ionic Framework, iOS Swift and Android Kotlin
 
-If you're interested in my resume for work, or collaborating on a project and/or discussing the latest tech trends, feel free to connect on 📫 !['robots beware - electrified postage method, ask a friend if you can't see this <3'](./assets/reachme.png) or [@capperstrnd on Discord](https://discord.com/users/capperstrnd)!
+If you're interested in my resume, or collaborating on a project and/or discussing the latest tech trends, feel free to connect on 📫 !['robots beware - electrified postage method, ask a friend if you can't see this <3'](./assets/reachme.png) or [@capperstrnd on Discord](https://discord.com/users/capperstrnd)!
 
 > Note: This Github is otherwise pretty sparse since I maintain my projects on a self-hosted [Gogs](https://github.com/gogs/gogs) instance at home
 <div align="center">
