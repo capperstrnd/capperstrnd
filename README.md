@@ -12,10 +12,10 @@ If you're interested in my resume, or collaborating on a project and/or discussi
 - 📫 !['robots beware - electrified postage method, ask a friend if you can't see this <3'](./assets/reachme.png)
 - [@capperstrnd on Discord](https://discord.com/users/capperstrnd)!
 
-> Note: This Github (with exceptions for my pins) is otherwise pretty sparse/outdated since I maintain my projects on a self-hosted [Gogs](https://github.com/gogs/gogs) instance at home
+> Note: This Github (with exceptions for my pinned repos) is otherwise pretty sparse/outdated since I maintain my projects on a self-hosted [Gogs](https://github.com/gogs/gogs) instance at home
 <div align="center">
 
-![Passionately devoted to our planet](./assets/earthgif.gif)
+<img src="./assets/earthgif.gif" alt="Passionately devoted to our planet" width=320 height=320>
 
 </div>
 
